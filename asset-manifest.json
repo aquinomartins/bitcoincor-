@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bitcoincore/static/css/main.a617e044.chunk.css",
+    "main.js": "/bitcoincore/static/js/main.ae1c34a9.chunk.js",
+    "main.js.map": "/bitcoincore/static/js/main.ae1c34a9.chunk.js.map",
+    "runtime-main.js": "/bitcoincore/static/js/runtime-main.0004b20b.js",
+    "runtime-main.js.map": "/bitcoincore/static/js/runtime-main.0004b20b.js.map",
+    "static/css/2.9d8b9176.chunk.css": "/bitcoincore/static/css/2.9d8b9176.chunk.css",
+    "static/js/2.efc67c3e.chunk.js": "/bitcoincore/static/js/2.efc67c3e.chunk.js",
+    "static/js/2.efc67c3e.chunk.js.map": "/bitcoincore/static/js/2.efc67c3e.chunk.js.map",
+    "static/js/3.b6c14ada.chunk.js": "/bitcoincore/static/js/3.b6c14ada.chunk.js",
+    "static/js/3.b6c14ada.chunk.js.map": "/bitcoincore/static/js/3.b6c14ada.chunk.js.map",
+    "index.html": "/bitcoincore/index.html",
+    "static/css/2.9d8b9176.chunk.css.map": "/bitcoincore/static/css/2.9d8b9176.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/bitcoincore/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.efc67c3e.chunk.js.LICENSE.txt": "/bitcoincore/static/js/2.efc67c3e.chunk.js.LICENSE.txt",
+    "static/media/logo.e34a840e.svg": "/bitcoincore/static/media/logo.e34a840e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0004b20b.js",
+    "static/css/2.9d8b9176.chunk.css",
+    "static/js/2.efc67c3e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ae1c34a9.chunk.js"
+  ]
+}
