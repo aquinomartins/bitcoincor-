@@ -1,2 +1,2 @@
-# bitcoincor-
+# bitcoincore
 www.corpos.org/bitcoincore
